@@ -1,4 +1,4 @@
-# FreeBSR Root File System
+# FreeBSD Root File System
 This filesystem can be used to cross-compile for freebsd.
 
 Please refer to [COPYRIGHT](COPYRIGHT) for copyright information.
